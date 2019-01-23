@@ -54,4 +54,4 @@ affinity:
        - key: foo.bar.com/role
          operator: NotIn
          values:
-         - true
+         - "true"
